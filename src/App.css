@@ -2,4 +2,13 @@
   text-align: center;
 }
 
+.rfc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
+.formCont {
+  width: 300px;
+  /* background-color: red; */
+}
