@@ -12,3 +12,42 @@
   width: 300px;
   /* background-color: red; */
 }
+
+.formStyle {
+  font-size: 32px !important;
+  border: none !important;
+  border-radius: 0 !important;
+  outline: none !important;
+  margin-bottom: 5px !important;
+  border-bottom: 1px rgb(185, 185, 185) solid !important;
+}
+
+.formStyle:focus {
+  font-size: 32px !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none  !important;
+  outline: none !important;
+  border-bottom: 1px rgb(185, 185, 185) solid !important;
+}
+
+.viewText {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.formEdit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.iconCont {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
